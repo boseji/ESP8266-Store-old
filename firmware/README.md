@@ -20,6 +20,12 @@ The same has been updated in this directory [AT_v0.50_on_esp_iot_sdk_v1.4.0_1509
 
 This firmware can be loaded in multiple ways as this a **Sectioned Firmware** image. The details for loading this firmware can be found in the [Firmware Loading Article].
 
+The documentation of the AT Commands can be found on the *Espressif Systems* website [4A-ESP8266__AT Instruction Set__EN_v1.4.pdf][10]
+
+Additionally *Espressif Systems* has published document contiaing example to help learn to use the current *AT Firmware* in website [4B-ESP8266__AT Command Examples__EN_v1.3.pdf][11]
+
+Both these documents are also available in the [manuals section][12] of this repository. 
+
 ## [Node-MCU Firmware][3]
 
 This is a Lua enabled firmware by the [Node-MCU team][4]. In this firmware the PC or Arduino or any other MCU can talk to the *ESP8266 module* via UART. The **Normal Baud rate** is generally `9600bps`. The programming and command interface on serial is via the [Lua Language][5].
@@ -102,3 +108,6 @@ This is a firmware thats **Full Bin Firmware** image hence can be loaded using t
   [7]: <https://github.com/nodemcu/nodemcu-firmware/releases/tag/0.9.6-dev_20150704>
   [8]: <https://github.com/boseji/ESP8266-Store/raw/master/firmware/nodemcu_float_0.9.6-dev_20150704.bin>
   [9]: <https://github.com/boseji/ESP8266-Store/raw/master/firmware/nodemcu_integer_0.9.6-dev_20150704.bin>
+  [10]: <http://bbs.espressif.com/download/file.php?id=897>
+  [11]: <http://bbs.espressif.com/download/file.php?id=822>
+  [12]: <https://github.com/boseji/ESP8266-Store/tree/master/manuals>
