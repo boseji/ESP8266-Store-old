@@ -14,5 +14,10 @@ One needs an additional processing unit with *ESP8266 module* such as Arduino, m
 
 The same has been updated in this directory [AT_v0.50_on_esp_iot_sdk_v1.4.0_150918.zip][2]
 
+`MD5: acab782a4adc661f5c36f45555e24b08`
+
+`SHA-1: 6af5c4a4af4cd27856837ccb1d4824dc1825a0c2`
+
+
   [1]: <http://bbs.espressif.com/download/file.php?id=837>
   [2]: <https://github.com/boseji/ESP8266-Store/raw/master/firmware/AT_v0.50_on_esp_iot_sdk_v1.4.0_150918.zip>
