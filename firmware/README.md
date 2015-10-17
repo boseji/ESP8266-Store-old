@@ -90,7 +90,7 @@ There are two Variants based on the math computation being `float` or `integer`:
 
 Depending on the Processing Requirement one can choose either of them.
 
-This is a firmware thats **full Bin** image hence can be loaded using the 
+This is a firmware thats **Full Bin Firmware** image hence can be loaded using the 
 [Node-MCU Firmware Loader] tool.
 
   [1]: <http://bbs.espressif.com/download/file.php?id=837>
