@@ -76,11 +76,15 @@ The updated [Node-MCU firmware 0.9.6-dev_20150704][7] is available under this di
 There are two Variants based on the math computation being `float` or `integer`:
 
   * [nodemcu_float_0.9.6-dev_20150704.bin][8]
+  
   `MD5: a1f6bab6e32651aa51aa10af4005ad82 nodemcu_float_0.9.6-dev_20150704.bin`
+  
   `SHA1: be728ec30b45528c569853ab3bb695591a1e0e77 nodemcu_float_0.9.6-dev_20150704.bin`
 
   *  [nodemcu_integer_0.9.6-dev_20150704.bin][9]
+  
   `MD5: 71f1a51d0eeaac43840a0aa8c8e02723 nodemcu_integer_0.9.6-dev_20150704.bin`
+  
   `SHA1: 9b28451d09abffa4d678fda6517ee6ce56c4b1d3 nodemcu_integer_0.9.6-dev_20150704.bin`
 
 Depending on the Processing Requirement one can choose either of them.
