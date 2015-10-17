@@ -18,6 +18,7 @@ The same has been updated in this directory [AT_v0.50_on_esp_iot_sdk_v1.4.0_1509
 
 `SHA1: 6af5c4a4af4cd27856837ccb1d4824dc1825a0c2 AT_v0.50_on_esp_iot_sdk_v1.4.0_150918.zip`
 
+This firmware can be loaded in multiple ways as this a **Sectioned Firmware** image. The details for loading this firmware can be found in the [Firmware Loading Article].
 
 ## [Node-MCU Firmware][3]
 
@@ -89,7 +90,8 @@ There are two Variants based on the math computation being `float` or `integer`:
 
 Depending on the Processing Requirement one can choose either of them.
 
-
+This is a firmware thats **full Bin** image hence can be loaded using the 
+[Node-MCU Firmware Loader] tool.
 
   [1]: <http://bbs.espressif.com/download/file.php?id=837>
   [2]: <https://github.com/boseji/ESP8266-Store/raw/master/firmware/AT_v0.50_on_esp_iot_sdk_v1.4.0_150918.zip>
