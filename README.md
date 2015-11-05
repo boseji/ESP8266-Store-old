@@ -5,6 +5,10 @@ This is a placeholder for all the different topics about ESP8266 that I wish to 
 ## For more info visit the Wiki
 ### <https://github.com/boseji/ESP8266-Store/wiki>
 
+## License
+All materials are Licensed under the [MIT Open source License](https://github.com/boseji/ESP8266-Store/raw/master/LICENSE) unless otherwise specified. 
+Certain materials are part of [***Espressif Systems*** license agreements](http://espressif.com/).
+
 ## Articles
 
 * ####AT Command Firmware based Client Server
