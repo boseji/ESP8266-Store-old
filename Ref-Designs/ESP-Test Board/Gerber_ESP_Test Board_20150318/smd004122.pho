@@ -1,0 +1,87 @@
+*
+*
+G04 PADS 9.5 Build Number: 522968 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "wifi_testchip_0427.pcb"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.001*%
+%ADD031C,0.00394*%
+%ADD136R,0.05906X0.17717*%
+%ADD137R,0.05905X0.17716*%
+%ADD138R,0.17717X0.17323*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name wifi_testchip_0427.pcb - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name wifi_testchip_0427.pcb - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name wifi_testchip_0427.pcb - circuitry*
+%LPD*%
+*
+G54D10*
+G54D31*
+G01X1968504Y1818898D02*
+Y1696850D01*
+X2049606*
+Y1818898*
+X1968504*
+G54D136*
+X1997414Y1806891D03*
+G54D137*
+X2021036D03*
+G54D138*
+X2004279Y1765439D03*
+X0Y0D02*
+M02*
