@@ -14,7 +14,7 @@ http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15F101E-series-english.pdf
 
 ## Image of the Relay board
 
-![Board Image](https://github.com/boseji/ESP-Store/tree/master/ESP8266-Relay-Board-With-STC15F104-Control-Chip/ESP8266-Relay-Board-With-STC15F104-Control-Chip.JPG)
+![Board Image](https://github.com/boseji/ESP-Store/blob/master/Application-Boards/ESP8266-Relay-Board-With-STC15F104-Control-Chip/ESP8266-Relay-Board-With-STC15F104-Control-Chip.JPG)
 
 ## Running the Relay
 
