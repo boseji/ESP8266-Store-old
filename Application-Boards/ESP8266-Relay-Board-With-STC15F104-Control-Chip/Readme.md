@@ -48,7 +48,7 @@ byte RlyOFF[]={0xA0,0x01,0x00,0xA1};
 
 This program will turn On and turn Off the relay continuously with a fixed interval.
 
-```arduino
+```C
 
 // Turn ON Command
 byte RlyON[]={0xA0,0x01,0x01,0xA2};
